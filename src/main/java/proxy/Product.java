@@ -20,6 +20,14 @@ public class Product implements IProduct {
         this.saleValue = object.saleValue;
     }
 
+    public Product(Integer id, String name, String size, Float purchaseValue, Float saleValue) {
+        this.id = id;
+        this.name = name;
+        this.size = size;
+        this.purchaseValue = purchaseValue;
+        this.saleValue = saleValue;
+    }
+
     public Integer getId() {
         return id;
     }
