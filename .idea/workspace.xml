@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="912e1494-d85e-484c-9b46-18214f19138b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/ProductProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/proxy/ProductProxyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
