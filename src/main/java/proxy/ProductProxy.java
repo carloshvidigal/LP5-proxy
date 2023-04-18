@@ -22,7 +22,7 @@ public class ProductProxy implements IProduct{
     @Override
     public List<Float> getValues(Employee employee) {
         if(!employee.isManager()) {
-            throw new IllegalArgumentException("unauthorized employee!");
+            throw new IllegalArgumentException("Unauthorized employee!");
         }
         if (this.product == null) {
             this.product = new Product(this.id);
